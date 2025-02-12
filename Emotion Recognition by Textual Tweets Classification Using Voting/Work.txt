@@ -1,0 +1,30 @@
+Service Provider
+
+Login,
+Train and Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+Predict Emotion From Data Set Details, 
+Find Emotion Prediction Ratio on Data Sets, 
+Download Trained Data Sets, 
+View Emotion Prediction Ratio Results, 
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+POST TWEET DATA SETS, 
+SEARCH AND PREDICT EMOTION, 
+PREDICT EMOTION
+
+VIEW YOUR PROFILE.
+
+
+Members
+
+Tweet_Id
+Tweet_Label
+Tweet_Message
+Emotion_Prediction
+
