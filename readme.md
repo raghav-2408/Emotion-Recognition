@@ -16,6 +16,3 @@ By comparing our method with popular machine learning models such as SVM, Decisi
 
 Social media, especially Twitter, has become a space where people freely express their thoughts and emotions. With millions of tweets posted daily, understanding these emotions is crucial for businesses, mental health monitoring, and social analysis. Manually analyzing such vast data is impractical, making automated emotion recognition essential. This study focuses on classifying emotions in tweets using a voting classifier that combines Logistic Regression (LR) and Stochastic Gradient Descent (SGD) with TF-IDF features to improve accuracy in detecting emotions like joy, sadness, anger, and fear. By comparing our model with popular machine learning techniques like SVM, Decision Tree, Naïve Bayes, and Random Forest, we demonstrate that our approach provides better performance and stability in real-world scenarios. The results highlight its effectiveness in areas such as social media analysis, customer feedback evaluation, and mental health support, making it a valuable tool for emotion detection in text.
 
-
-
-
